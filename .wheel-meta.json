@@ -1,0 +1,22 @@
+{
+  "wheel_id": 504,
+  "structure": "umbrella",
+  "slug": "bestsydneyrestaurants-101",
+  "project": "restaurants-sydney-checklist-63902ad86e3f5abae8a008a6ca8237f",
+  "parent_t1_ref": "bestsydneyrestaurants-150",
+  "node_role": "feeder",
+  "money_target": "bestsydneyrestaurants.com.au",
+  "primary_kw": "restaurants sydney checklist",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/restaurants-sydney-checklist-63902ad86e3f5abae8a008a6ca8237f/",
+  "tier": "T2",
+  "writeback_nonce": "86e7c9a8f4ae345d",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/restaurants-sydney-89e66a5424acf1d8587b452ec4093fff7379896f/",
+      "anchor": "restaurants sydney explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
